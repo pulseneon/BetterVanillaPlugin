@@ -1,0 +1,4 @@
+name: BetterVanillaPlugin
+version: '${project.version}'
+main: me.pulseneon.bettervanillaplugin.BetterVanillaPlugin
+api-version: 1.19

@@ -1,0 +1,16 @@
+me\pulseneon\bettervanillaplugin\betterhorses\listeners\OnPlayerInteractEntity.class
+me\pulseneon\bettervanillaplugin\BetterVanillaPlugin.class
+me\pulseneon\bettervanillaplugin\betterhorses\utils\GeneUtils$1.class
+me\pulseneon\bettervanillaplugin\levellimit\utils\Utils.class
+me\pulseneon\bettervanillaplugin\utils\NotificationUtils.class
+me\pulseneon\bettervanillaplugin\levellimit\listeners\OnPlayerExpChange.class
+me\pulseneon\bettervanillaplugin\betterhorses\utils\GeneUtils.class
+me\pulseneon\bettervanillaplugin\betterhorses\listeners\OnEntityBreedEvent.class
+me\pulseneon\bettervanillaplugin\betterhorses\ListenerManager.class
+me\pulseneon\bettervanillaplugin\fixfood\ListenerManager.class
+me\pulseneon\bettervanillaplugin\fixfood\models\Food.class
+me\pulseneon\bettervanillaplugin\database\DatabaseManager.class
+me\pulseneon\bettervanillaplugin\fixfood\listeners\OnPlayerEatListener.class
+me\pulseneon\bettervanillaplugin\betterhorses\enums\DominantGenes.class
+me\pulseneon\bettervanillaplugin\betterhorses\utils\StatsUtils.class
+me\pulseneon\bettervanillaplugin\levellimit\ListenerManager.class
